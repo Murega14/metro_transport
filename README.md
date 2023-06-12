@@ -1,7 +1,7 @@
-# Problem Statement:
+# Problem Statement
 
-****Analyze a dataset for metro transport to gain insights into various aspects of metro systems around the world. The dataset, stored in a CSV file, contains information on different metro systems including the metro name, city, country, service opening date, last expansion date, number of stations, system length, annual ridership in millions, annual ridership, and the year of record.
-****
+**Analyze a dataset for metro transport to gain insights into various aspects of metro systems around the world. The dataset, stored in a CSV file, contains information on different metro systems including the metro name, city, country, service opening date, last expansion date, number of stations, system length, annual ridership in millions, annual ridership, and the year of record.**
+
 The objective of the analysis is to explore and understand the metro systems based on the available data. The analysis will involve examining the following aspects:
 
     1.Ridership Trends: Investigate the annual ridership in millions and identify patterns, trends, and variations across different metro systems. Determine the metro systems with the highest and lowest ridership levels and understand any factors contributing to these differences.
